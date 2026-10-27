@@ -2,7 +2,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOMbGaHHs7pXzkbshwOl-oi6-PYqL_2QAGCu4ZXsX8UMSr-fuvvcvA5-gv2XnpZGPxUM&usqp=CAU" />
 </div>
 # 💫 About Me:
-Hey, I am Adithyan M Nair, a 2nd-year student at IIIT Kottayam. I am a sublead of the AI club here at Beta Labs <br><br>Also I am a full-stack developer with expertise in ML and RAG applications 
+Hey, I am Adithyan M Nair, CTO of Dotnot Solutions. I am the lead of the AI club here at IIIT KOTTAYAM <br><br>I am a full-stack developer with expertise in ML and RAG applications.
 
 
 ## 🌐 Socials:
